@@ -61,7 +61,30 @@
                 <h6>Eraswap Wallet has shifted inside eraswap life so click below button go to eraswap.life</h6>
                 <br><br>
 
-                <a class="nav-link text-white tm-button tm-button-lg"  href="https://eraswap.life/" target="_blank"><span style="color:#fff">Proceed</span></a>
+                <a class="nav-link text-white tm-button tm-button-lg"  href="https://eraswap.life/create-new-wallet" target="_blank"><span style="color:#fff">Proceed</span></a>
+                    
+      </div>
+     
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel1" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+     
+      <div class="modal-body text-center">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+                <span class=""><img src="/images/wallet-dash.png" height="30px" alt="S_LIFE"></span><br><br>
+                <h3>New Update</h3>
+                <br>
+                <h6>Eraswap Wallet has shifted inside eraswap life so click below button go to eraswap.life</h6>
+                <br><br>
+
+                <a class="nav-link text-white tm-button tm-button-lg"  href="https://eraswap.life/access-my-wallet" target="_blank"><span style="color:#fff">Proceed</span></a>
                     
       </div>
      
@@ -75,7 +98,7 @@
                            
                             <li><i class="fa fa-angle-double-right"></i> <a data-toggle="modal" data-target="#exampleModal"><i class="zmdi zmdi-apple"></i>Create Wallet <span style="font-size:10px;">(New Users)</span></a></li>
 
-                            <li><i class="fa fa-angle-double-right"></i> <a href="https://eraswap.life/access-my-wallet" target="_blank"><i class="zmdi zmdi-apple"></i>Load Wallet  <span style="font-size:10px; ">(Existing Users)</span></a></li>
+                            <li><i class="fa fa-angle-double-right"></i> <a href="" data-toggle="modal" data-target="#exampleModal1" target="_blank"><i class="zmdi zmdi-apple"></i>Load Wallet  <span style="font-size:10px; ">(Existing Users)</span></a></li>
 
                             <li><i class="fa fa-angle-double-right"></i> <a href="/pdf/Eraswap_Wallet_Terms.pdf" target="_blank"><i class="zmdi zmdi-apple"></i><span>Terms & Condition</span></a></li>
 
