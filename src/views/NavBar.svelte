@@ -64,18 +64,18 @@ a:hover{
   </button>
 
   </div>
-  <!--<div class="collapse navbar-collapse" id="navbarSupportedContent" >
+  <div class="collapse navbar-collapse" id="navbarSupportedContent" >
     <ul class="navbar-nav ml-auto navbar-right">
       {#if !wallet}
       <li class="nav-item" style="margin-right: 8px; margin-bottom:10px">
-        <a class="nav-link text-white tm-button tm-button-lg tm-button-white tm-button-transparent" href="/create-new-wallet" >Create Wallet <span style="font-size:10px; ">New Users</span></a>
+        <a class="nav-link text-white tm-button tm-button-lg tm-button-white tm-button-transparent" href="" data-toggle="modal" data-target="#exampleModal">Create Wallet <span style="font-size:10px; ">(New Users)</span></a>
       </li>
       <li class="nav-item" style="margin-right: 8px; margin-bottom:10px">
-        <a class="nav-link text-white tm-button tm-button-lg tm-button-white tm-button-transparent" href="/access-my-wallet" >Load Wallet <span style="font-size:10px; ">Existing Users</span></a>
+        <a class="nav-link text-white tm-button tm-button-lg tm-button-white tm-button-transparent" href="" data-toggle="modal" data-target="#exampleModal1" >Load Wallet <span style="font-size:10px; ">(Existing Users)</span></a>
       </li>
       {/if}
-      {#if wallet}
-      <li class="nav-item" style="margin-right: 8px; margin-bottom:10px">
+      <!--  {#if wallet}
+    <li class="nav-item" style="margin-right: 8px; margin-bottom:10px">
         <a class="nav-link text-white tm-button tm-button-lg tm-button-white tm-button-transparent" href="/dashboard" id="user-dashboard">Dashboard</a>
       </li>
       <if class="nav-item" style="margin-right: 8px; margin-bottom:10px">
@@ -84,7 +84,7 @@ a:hover{
       {/if}
       <li class="nav-item" style="margin-right: 8px; margin-bottom:10px">
         <a class="nav-link text-white tm-button tm-button-lg tm-button-white tm-button-transparent" href="/ecosystem/index.html" target="_blank">ESE Dashboard</a>
-      </li>
+      </li>-->
     </ul>
-  </div>-->
+  </div>
 </nav>
