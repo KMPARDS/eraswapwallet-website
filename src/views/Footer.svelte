@@ -99,8 +99,10 @@
                             <li><i class="fa fa-angle-double-right"></i> <a data-toggle="modal" data-target="#exampleModal"><i class="zmdi zmdi-apple"></i>Create Wallet <span style="font-size:10px;">(New Users)</span></a></li>
 
                             <li><i class="fa fa-angle-double-right"></i> <a href="" data-toggle="modal" data-target="#exampleModal1" target="_blank"><i class="zmdi zmdi-apple"></i>Load Wallet  <span style="font-size:10px; ">(Existing Users)</span></a></li>
+                            
+                            <li><i class="fa fa-angle-double-right"></i> <a href="https://eraswaptoken.io/pdf/eraswap-terms-conditions.pdf" target="_blank"><i class="zmdi zmdi-apple"></i><span> Era Swap Terms & Condition</span></a></li>
 
-                            <li><i class="fa fa-angle-double-right"></i> <a href="/pdf/Eraswap_Wallet_Terms.pdf" target="_blank"><i class="zmdi zmdi-apple"></i><span>Terms & Condition</span></a></li>
+                            <li><i class="fa fa-angle-double-right"></i> <a href="/pdf/eraswap-wallet-terms-conditions.pdf" target="_blank"><i class="zmdi zmdi-apple"></i><span>Terms & Condition</span></a></li>
 
                             <li><i class="fa fa-angle-double-right"></i> <a href="/pdf/Eraswap_Wallet_Privacy_Policy.pdf" target="_blank"><i class="zmdi zmdi-apple"></i><span>Privacy Policy</span></a></li>
 
