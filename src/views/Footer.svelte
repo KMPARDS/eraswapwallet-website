@@ -105,6 +105,10 @@
                             <li><i class="fa fa-angle-double-right"></i> <a href="/pdf/eraswap-wallet-terms-conditions.pdf" target="_blank"><i class="zmdi zmdi-apple"></i><span>Terms & Condition</span></a></li>
 
                             <li><i class="fa fa-angle-double-right"></i> <a href="/pdf/Eraswap_Wallet_Privacy_Policy.pdf" target="_blank"><i class="zmdi zmdi-apple"></i><span>Privacy Policy</span></a></li>
+                           
+                             <li><i class="fa fa-angle-double-right"></i>  <a href="http://eraswaptoken.io/pdf/era-swap-howey-test-letter-august7-2018.pdf" target="_blank"><i class="zmdi zmdi-apple"></i><span> Howey Test</span></a></li>
+ 
+                             <li><i class="fa fa-angle-double-right"></i>  <a href="http://eraswaptoken.io/pdf/eraswap_whitepaper.pdf" target="_blank"><i class="zmdi zmdi-apple"></i><span> ES White Paper </span></a></li>
 
                            
                         </ul>
