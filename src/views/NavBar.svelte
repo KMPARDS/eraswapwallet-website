@@ -39,7 +39,7 @@ a:hover{
 
 </style>
 <nav class="navbar navbar-expand-lg navbar-light">
-  <a class="navbar-brand" href="/" id="home"><img src="/images/es_newlogo-white-min.png" style="width: 180px" alt="es_newlogo-white-min"></a>
+  <a class="navbar-brand" href="/" id="home"><img src="/images/es_newlogo-white-min.png" style="width: 180px" class="logo" alt="es_newlogo-white-min"></a>
   <div class="dropdown">
      <i class="fa fa-th " style="color: #fff; font-size:20px" data-toggle="dropdown" aria-hidden="true"></i>
     <div class="dropdown-menu align-drop">

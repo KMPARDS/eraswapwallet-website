@@ -6427,6 +6427,11 @@ ul.policy_list li a {
   .tm-footer-widgets .widget-info {
     padding-right: 0;
   }
+/*  .navbar-brand .logo{
+      width: 200px;
+      position: absolute;
+      top: -7px;
+  }*/
 }
 
 .blinking{

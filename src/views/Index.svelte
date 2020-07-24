@@ -1482,7 +1482,7 @@
                            <h5 class="mb-0">
                               <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#tm-accordion1-collapse2"
                                  aria-expanded="false" aria-controls="tm-accordion1-collapse2">
-                              <img src="/images/q.png" alt="q">  HI forgot my private key. What can I do?
+                              <img src="/images/q.png" alt="q">  I forgot my private key. What can I do?
                               </button>
                            </h5>
                         </div>
