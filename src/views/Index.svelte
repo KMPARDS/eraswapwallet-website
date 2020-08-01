@@ -745,8 +745,8 @@
          <div class="row align-items-center">
             <div class="col-xl-8 col-lg-7 order-2 order-lg-1">
                <div class="tm-heroslider-content">
-                  <h1>Decentralized Wallet for Community</h1>
-                  <p>Eraswap Wallet is a decentralized wallet for the community to offer smooth and hassle free services.  </p>
+                  <h1>One access to your multiple needs.</h1>
+                  <p>Control and Privacy in your hands as the private keys stays only with you. </p>
                   <div class="tm-buttongroup">
                      <a href="https://eraswap.life/" target="_blank" class="tm-button tm-button-lg tm-button-white tm-button-transparent" data-toggle="modal" data-target="#terms" ><span>Get it Now</span></a>
                   </div>
@@ -1138,9 +1138,9 @@
                         <span class="tm-funfact-icon">
                         <img src="/images/7-min.png" alt="7-min">
                         </span>
-                        <p style="font-size:13px">P2P Lend & Borrow</p>
+                        <p style="font-size:13px">Buy ES with Cards</p>
                      </div>
-                     <a href="https://computeex.net" target="_blank">
+                     <a href="https://www.computeex.net" target="_blank">
                         <div class="flip-card-back">
                            <div class="tm-funfact text-center">
                               <img src="images/comp-lb.png" alt="comp-lb" height="105px" >
@@ -1159,7 +1159,7 @@
                         </span>
                         <p style="font-size:13px">Multi Exchange Solution</p>
                      </div>
-                     <a href="https://computeex.net" target="_blank">
+                     <a href="https://www.computeex.net" target="_blank">
                         <div class="flip-card-back">
                            <div class="tm-funfact text-center">
                               <img src="images/comp.png" alt="comp" height="105px">
