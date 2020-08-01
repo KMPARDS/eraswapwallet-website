@@ -95,22 +95,15 @@
                     <div class="single-widget">
                          <h5 class="widget-title">Other Links</h5> 
                         <ul>
-                           
-                            <li><i class="fa fa-angle-double-right"></i> <a data-toggle="modal" data-target="#exampleModal"><i class="zmdi zmdi-apple"></i>Create Wallet <span style="font-size:10px;">(New Users)</span></a></li>
-
-                            <li><i class="fa fa-angle-double-right"></i> <a href="" data-toggle="modal" data-target="#exampleModal1" target="_blank"><i class="zmdi zmdi-apple"></i>Load Wallet  <span style="font-size:10px; ">(Existing Users)</span></a></li>
-                            
-                            <li><i class="fa fa-angle-double-right"></i> <a href="https://eraswaptoken.io/pdf/eraswap-terms-conditions.pdf" target="_blank"><i class="zmdi zmdi-apple"></i><span> Era Swap Terms & Condition</span></a></li>
-
-                            <li><i class="fa fa-angle-double-right"></i> <a href="/pdf/eraswap-wallet-terms-conditions.pdf" target="_blank"><i class="zmdi zmdi-apple"></i><span>Terms & Condition</span></a></li>
-
-                            <li><i class="fa fa-angle-double-right"></i> <a href="/pdf/Eraswap_Wallet_Privacy_Policy.pdf" target="_blank"><i class="zmdi zmdi-apple"></i><span>Privacy Policy</span></a></li>
-                           
-                             <li><i class="fa fa-angle-double-right"></i>  <a href="http://eraswaptoken.io/pdf/era-swap-howey-test-letter-august7-2018.pdf" target="_blank"><i class="zmdi zmdi-apple"></i><span> Howey Test</span></a></li>
- 
-                             <li><i class="fa fa-angle-double-right"></i>  <a href="http://eraswaptoken.io/pdf/eraswap_whitepaper.pdf" target="_blank"><i class="zmdi zmdi-apple"></i><span> ES White Paper </span></a></li>
-
-                           
+                                        <li><i class="fa fa-angle-double-right"></i>  <a href="http://eraswaptoken.io/pdf/eraswap_whitepaper.pdf" target="_blank"><i class="zmdi zmdi-apple"></i><span> ES White Paper </span></a></li>
+                                        <li><i class="fa fa-angle-double-right"></i>  <a href="http://eraswaptoken.io/pdf/era-swap-howey-test-letter-august7-2018.pdf" target="_blank"><i class="zmdi zmdi-apple"></i><span> Howey Test</span></a></li>
+                                        <li><i class="fa fa-angle-double-right"></i>  <a href="http://eraswaptoken.io/pdf/es-statuary-warning.pdf" target="_blank"><i class="zmdi zmdi-apple"></i><span> Statuary Warning </span></a></li>
+                                        <li><i class="fa fa-angle-double-right"></i>  <a href="https://eraswap.life/pdf/how-to-create-eraswap-wallet.pdf" target="_blank"><i class="zmdi zmdi-apple"></i><span>  User Manual  </span></a></li>
+                                        <li><i class="fa fa-angle-double-right"></i> <a data-toggle="modal" data-target="#exampleModal"><i class="zmdi zmdi-apple"></i>Create Wallet <span style="font-size:10px;">(New Users)</span></a></li>
+                                        <li><i class="fa fa-angle-double-right"></i> <a href="" data-toggle="modal" data-target="#exampleModal1" target="_blank"><i class="zmdi zmdi-apple"></i>Load Wallet  <span style="font-size:10px; ">(Existing Users)</span></a></li>
+                                        <li><i class="fa fa-angle-double-right"></i> <a href="https://eraswaptoken.io/pdf/eraswap-terms-conditions.pdf" target="_blank"><i class="zmdi zmdi-apple"></i><span> Era Swap Terms & Condition</span></a></li>
+                                        <li><i class="fa fa-angle-double-right"></i> <a href="/pdf/eraswap-wallet-terms-conditions.pdf" target="_blank"><i class="zmdi zmdi-apple"></i><span>Terms & Condition</span></a></li>
+                                        <li><i class="fa fa-angle-double-right"></i> <a href="/pdf/Eraswap_Wallet_Privacy_Policy.pdf" target="_blank"><i class="zmdi zmdi-apple"></i><span>Privacy Policy</span></a></li>
                         </ul>
                     </div>
                 </div>
@@ -118,12 +111,17 @@
                     <div class="single-widget">
                          <h5 class="widget-title">Social Links</h5>
                         <ul class="policy_list">
-                            <li><a href="https://www.facebook.com/eraswap/" target="_blank"><i class="fa fa-facebook" style="font-size:22px"></i></a></li>
-                            <li><a href="https://www.linkedin.com/company/eraswap/" target="_blank"><i class="fa fa-linkedin" style="font-size:22px"></i></a></li>
+                            <li><a href="https://www.facebook.com/eraswap" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://www.linkedin.com/company/eraswap/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="https://www.instagram.com/eraswap/?hl=en" target="_blank"><i class="fa fa-instagram"></i></a> </li>
+                            <li><a href="https://twitter.com/EraSwapTech" target="_blank"><i class="fa fa-twitter"></i></a> </li>
+                            <li><a href="https://medium.com/@eraswap" target="_blank"><i class="fa fa-medium"></i></a> </li>
+                            <li><a href="https://eraswap.tumblr.com/" target="_blank"><i class="fa fa-tumblr"></i></a></li>
+                            <li><a href="https://t.me/eraswap" target="_blank"><i class="fa fa-telegram"></i></a></li>
+                            <li> <a href="https://github.com/KMPARDS" target="_blank"><i class="fa fa-github"></i></a></li>
+                            <li><a href="https://www.reddit.com/user/EraSwap" target="_blank"><i class="fa fa-reddit"></i></a> </li>
+                            <li><a href="https://www.youtube.com/channel/UCGCP4f5DF1W6sbCjS6y3T1g?view_as=subscriber" target="_blank"><i class="fa fa-youtube"></i></a></li>
                             <li><a href="https://www.pinterest.com/eraswapt/" target="_blank"><i class="fa fa-pinterest" style="font-size:22px"></i></a></li>
-                            <li><a href="https://www.youtube.com/channel/UCGCP4f5DF1W6sbCjS6y3T1g" target="_blank"><i class="fa fa-youtube" style="font-size:22px"></i></a></li>
-                            <li><a href="https://www.instagram.com/eraswap/" target="_blank"><i class="fa fa-instagram" style="font-size:22px"></i></a></li>
-                            <li><a href="https://medium.com/@eraswap" target="_blank"><i class="fa fa-medium" aria-hidden="true" style="font-size:22px"></i></a></li>
                             <li><a href="https://coinmarketcap.com/currencies/era-swap/" target="_blank"><img src="/images/cmc.png" style="height: 22px; margin-bottom: 7px;" /></a></li>
                             <li style="margin-left:-4px"><a href="https://ethplorer.io/address/0xef1344bdf80bef3ff4428d8becec3eea4a2cf574" target="_blank"><img src="/images/ethplorer2.png" style="height: 22px; margin-bottom: 7px;" /></a></li>
                         </ul>
